@@ -1,6 +1,6 @@
 # Codember 2023
 
-Welcome to Codember 2023! This repository contains the challenges for this year's coding extravaganza. Below, you'll find details about each challenge, instructions on how to solve them, and hints to guide you through the process.
+Welcome to Codember 2023! This repository contains the solutions of the challenges for this year's coding extravaganza. Below, you'll find details about each challenge, instructions on how to solve them, and hints to guide you through the process.
 
 ## Getting Started
 
