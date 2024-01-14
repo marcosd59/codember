@@ -22,6 +22,12 @@ The second key, zzzsg, is not valid; it contains the letter z 3 times, but needs
 
 ** Your challenge: **
 Determine how many encryption keys are valid according to their policies.
+
+** How to solve it **
+1. Analyze the list of policies and encryption keys that you will find in this file: https://codember.dev/data/encryption_policies.txt
+
+2. Create a program that returns the 42nd invalid key (of all the invalid keys, the 42nd in order of appearance). For example:
+submit bqamidgewtbuz
 */
 
 let arr = [
