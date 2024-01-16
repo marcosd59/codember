@@ -1,5 +1,14 @@
 # Codember 2023
 
+```
+                 /\ \                       /\ \
+  ___     ___    \_\ \      __     ___ ___  \ \ \____     __    _ __
+ /'___\  / __`\  /'_` \   /'__`\ /' __` __`\ \ \ '__`\  /'__`\ /\`'__\
+/\ \__/ /\ \L\ \/\ \L\ \ /\  __/ /\ \/\ \/\ \ \ \ \L\ \/\  __/ \ \ \/
+\ \____\\ \____/\ \___,_\\ \____\\ \_\ \_\ \_\ \ \_,__/\ \____\ \ \_\
+ \/____/ \/___/  \/__,_ / \/____/ \/_/\/_/\/_/  \/___/  \/____/  \/_/
+```
+
 Welcome to Codember 2023! This repository contains the solutions of the challenges for this year's coding extravaganza. Below, you'll find details about each challenge, instructions on how to solve them, and hints to guide you through the process.
 
 ## Getting Started
@@ -33,6 +42,20 @@ This command will display a list of available commands, helping you navigate thr
 ### Challenge 05: The Final Problem
 *Objective:* Identify valid users in a corrupted database and uncover a hidden message.
 *Instructions:* Check [CHALLENGE_05.txt](https://codember.dev/data/database_attacked.txt) for details.
+
+## Secrets 
+
+| Secret | Name              | Hint               |
+| ------ | ----------------- | ------------------ |
+| 1      | Saoko papi saoko  | Look at the files  |
+| 2      | Listen to the cow | Look at the code   |
+| 3      | Confetti          | :tada: + :tada:    |
+| 4      | Game              | Play a game        |
+| 5      | Easter egg        | Google 360º        |
+| 6      | Mail              | Check the emails   |
+| 7      | Konami code       |                    |
+| 8      | npm in public     | Check package.json |
+
 
 ## Additional Commands
 
