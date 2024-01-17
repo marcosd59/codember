@@ -38,5 +38,4 @@ Develop a mini compiler that takes a text string and returns another text string
 ```
 submit 024899488
 ```
-
 Happy coding! 🚀
