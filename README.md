@@ -45,16 +45,21 @@ This command will display a list of available commands, helping you navigate thr
 
 ## Secrets
 
-| Secret | Name              | Hint               |
-| ------ | ----------------- | ------------------ |
-| 1      | Saoko papi saoko  | Look at the files  |
-| 2      | Listen to the cow | Look at the code   |
-| 3      | Confetti          | :tada: + :tada:    |
-| 4      | Game              | Play a game        |
-| 5      | Easter egg        | Google 360º        |
-| 6      | Mail              | Check the emails   |
-| 7      | Konami code       |                    |
-| 8      | npm in public     | Check package.json |
+| Secreto |   ¿Pistas?...      |
+| :-----: | :----------------: |
+|   #01   | imagen blureada    |
+|   #02   | you have new email |
+|   #03   | konami code        |
+|   #04   | you have new email |
+|   #05   | confettis?         |
+|   #06   | mago (most famous word in the world) |
+|   #07   |  do roll command (do barrel roll) |
+|   #08   |  log_mars_mission.txt (you need to be sudo) => new mail |
+|   #09   |  Open AI man (you need to be sudo) => new mail |
+|   #10   |  cow habla |
+|   #11   |  install midu katas |
+|   #12   |  check the CHANGLEOG (always) |
+|   #13   |  what causes a new fix in code (3 letters) |
 
 
 ## Additional Commands
